@@ -1,0 +1,25 @@
+.section__miOrg {
+  width: 100%;
+}
+
+.box_miOrg_title {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.box_miOrg_title h3 {
+  color: #6278f7;
+  font-size: 40px;
+  font-weight: 400;
+  padding-bottom: 25px;
+  border-bottom: 4px solid #6278f7;
+}
+
+.box_miOrg_title img {
+  position: absolute;
+  right: 5%;
+  top: 5%;
+  cursor: pointer;
+}

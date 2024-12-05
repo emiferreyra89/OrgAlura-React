@@ -1,0 +1,21 @@
+.section__equipos {
+  width: 100%;
+  text-align: center;
+  padding: 32px;
+  box-sizing: border-box;
+}
+
+.section__equipos h3 {
+  font-size: 32px;
+  font-weight: 400;
+  color: #212121;
+  border-bottom: 4px solid;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+.box__equipos {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}

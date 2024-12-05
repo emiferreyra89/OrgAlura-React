@@ -1,0 +1,57 @@
+.article__card {
+  width: 280px;
+  margin-bottom: 24px;
+  position: relative;
+}
+
+.article__card .box__encabezado {
+  background-color: #f0f0f0;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.box__encabezado img {
+  width: 100px;
+  border-radius: 50%;
+  position: relative;
+  bottom: -50px;
+}
+
+.box__info-instructor {
+  background: #FFFFFF;
+  box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.4);
+  border-radius: 0px 0px 10px 10px;
+  padding-top: 90px;
+  padding-bottom: 40px;
+  min-height: 100px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.box__info-instructor h4 {
+  color:#6278f7;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.box__info-instructor h5 {
+  color:#212121;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  margin: 0px;
+  padding: 0px 24px;
+}
+
+.eliminar {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  font-size: 24px;
+  cursor: pointer;
+}
+
+.fav {
+  margin-top: 20px;
+  font-size: 24px
+}
