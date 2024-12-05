@@ -1,3 +1,7 @@
+# AluraOrg
+Es un SPA desarrollado exclusivamente en REACT para comprender como es el ecosistema de dicha tecnologia. La pagina disenada simula una aplicacion que permite listar los diferentes equipos de una Organizacion con sus respectivos colaboradores. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# OrgAlura-React
